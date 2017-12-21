@@ -1,8 +1,3 @@
-Where: Omni Commons - 4799 Shattuck Ave, Oakland
-Ticket costs: 40$ until 1/10 and 50$ until we sell out!!!!
-How to pay: paypal classyultimate@gmail.com
-
-
 <img src='/assets/images/poster.png' style='width:100%;' />
 
 <p>
@@ -30,18 +25,18 @@ How to pay: paypal classyultimate@gmail.com
 <hr>
 
 
-If you're asking, "What do you mean pick the date?"
+If you're asking, "What do you mean pick the date?"<br>
 Don't fret, we know you've already got your mate! 
 
-The theme here is any eighties 
+The theme here is any eighties <br>
 So roll up in any Mercedes
 
-Come from the wild wild west
-or in your high school prom best
-Come decked out for a futuristic quest
+Come from the wild wild west<br>
+or in your high school prom best<br>
+Come decked out for a futuristic quest<br>
 Any way dressed to impress!
 
-Pick your prom attire fate
+Pick your prom attire fate<br>
 And get yo butt to Classy Prom 8!!
 
 <hr>
